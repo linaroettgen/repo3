@@ -33,7 +33,7 @@ public class h1main {
 	} else {
 		warnhinweis = false;
 	}
-		System.out.print("stand" +rating);
+		System.out.print("rating" +rating);
 		System.out.print(warnhinweis);
 		
 	}
